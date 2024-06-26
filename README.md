@@ -126,3 +126,4 @@ Any kind of contributions to `qxresearch-event-1` are welcome. Contributions are
 ### Donate
 
 TRC20: TH8pmep7NhdkX11PzWPRa3LUUkbM48sexV
+ERC20(BEP20): 0x1f6A0Cc45Eb5605eEDBcDdF74c876dbF164Ac2D5
